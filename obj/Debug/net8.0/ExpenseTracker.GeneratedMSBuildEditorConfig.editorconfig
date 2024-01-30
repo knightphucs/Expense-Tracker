@@ -26,8 +26,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/phuchoang3103/Workspace/ProjectMVC/ExpenseTracker
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/phuchoang3103/Workspace/ProjectMVC/ExpenseTracker/Views/Category/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvQ3JlYXRlLmNzaHRtbA==
+[/Users/phuchoang3103/Workspace/ProjectMVC/ExpenseTracker/Views/Category/AddOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvQWRkT3JFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/phuchoang3103/Workspace/ProjectMVC/ExpenseTracker/Views/Category/Delete.cshtml]
@@ -36,10 +36,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/phuchoang3103/Workspace/ProjectMVC/ExpenseTracker/Views/Category/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/phuchoang3103/Workspace/ProjectMVC/ExpenseTracker/Views/Category/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/phuchoang3103/Workspace/ProjectMVC/ExpenseTracker/Views/Category/Index.cshtml]

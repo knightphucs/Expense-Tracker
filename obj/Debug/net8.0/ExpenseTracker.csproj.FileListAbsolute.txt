@@ -279,3 +279,4 @@
 /Users/phuchoang3103/Workspace/ProjectMVC/ExpenseTracker/bin/Debug/net8.0/Syncfusion.EJ2.dll
 /Users/phuchoang3103/Workspace/ProjectMVC/ExpenseTracker/bin/Debug/net8.0/Syncfusion.Licensing.dll
 /Users/phuchoang3103/Workspace/ProjectMVC/ExpenseTracker/obj/Debug/net8.0/ExpenseTracker.MvcApplicationPartsAssemblyInfo.cs
+/Users/phuchoang3103/Workspace/ProjectMVC/ExpenseTracker/obj/Debug/net8.0/ExpenseTracker.sourcelink.json

@@ -15,6 +15,11 @@ html {
 html {
   position: relative;
   min-height: 100%;
+  font-family: "Inter";
+}
+
+*:not(.fa-solid):not(.fa):not(.e-icons) {
+  font-family: "Inter";
 }
 
 body {
@@ -25,4 +30,42 @@ body {
 
 .e-bigger {
   font-size: x-large;
+}
+
+/* Grid */
+.e-grid {
+  border: 0;
+  border-radius: 10px;
+}
+
+.e-grid .e-headercell {
+  background-color: #222b33;
+}
+
+/* Radio button Group */
+.e-btn-group.custom-rbt-group {
+  width: 100%;
+}
+
+.e-btn-group.custom-rbt-group .e-btn {
+  width: 50%;
+}
+
+.custom-rbt-group label.e-btn {
+  box-shadow: none !important;
+  border: 1px solid #fff;
+  background-color: rgb(34, 43, 51);
+  color: #fff;
+}
+
+.e-btn-group.custom-rbt-group input:checked + label.e-btn {
+  background-color: #fff;
+  color: #212b36;
+  border: 1px solid #fff;
+}
+
+/* Widget */
+.widget {
+  border-radius: 1rem;
+  background-color: #1a222b;
 }
