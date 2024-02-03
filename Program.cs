@@ -12,7 +12,7 @@ builder.Services.AddControllersWithViews();
 var app = builder.Build();
 
 //Register Syncfusion license
-Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Ngo9BigBOggjHTQxAR8/V1NAaF5cWWJCf1FpR2RGfV5yd0VCal1UTnRaUiweQnxTdEZiW31ecHBUQ2JZUEByXQ==");
+Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Ngo9BigBOggjHTQxAR8/V1NHaF1cWWhIfEx1RHxQdld5ZFRHallYTnNWUj0eQnxTdEFjWHxfcHZWT2VfUER0WA==");
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
