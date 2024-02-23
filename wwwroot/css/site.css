@@ -32,6 +32,17 @@ body {
   font-size: x-large;
 }
 
+/* Color button PageActionText - '+ New Category' */
+.pg.btn.btn-success  {
+  color: #fff;
+} 
+
+/* BreadCrumb */
+.e-breadcrumb a, .e-breadcrumb a:hover {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
 /* Button */
 .btn:focus, .btn:active {
   outline: none !important;
