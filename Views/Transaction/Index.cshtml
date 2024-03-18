@@ -1,20 +1,11 @@
 @model IEnumerable<ExpenseTracker.Models.Transaction>
 
 @{
-    Layout = null;
+    ViewData["PageTitle"] = "Transactions";
+    ViewData["PageActionText"] = "+ New Transaction";
+    ViewData["PageActionUrl"] = "/Transaction/AddOrEdit";
 }
 
-<!DOCTYPE html>
-
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Index</title>
-</head>
-<body>
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
 <table class="table">
     <thead>
         <tr>
@@ -57,5 +48,3 @@
 }
     </tbody>
 </table>
-</body>
-</html>
